@@ -1,0 +1,4 @@
+odds api key:
+6c7acd69eb1c0abf89f117eebe0b4cf0
+
+https://api.the-odds-api.com
